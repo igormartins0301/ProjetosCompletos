@@ -14,9 +14,13 @@ O Data Set utilizado trabalha a questão de Churn de uma Telecom, onde o princip
 
 
 ### [Projeto 3. Modelo de Clusterização](https://github.com/igormartins0301/ProjetosCompletos/blob/main/marketing_campaign_DS.ipynb)
-O meu projeto consiste em um modelo de aprendizado de máquina para realizar a classificação de clientes em potencial com base em dados demográficos e histórico de compras.
+O meu projeto consiste em um modelo de aprendizado de máquina para realizar a clusterização de clientes em potencial com base em dados demográficos e histórico de compras.
+
 Para isso, utilizei técnicas de pré-processamento de dados, como one hot encoding e standard scaler, para transformar e normalizar os dados do conjunto de treinamento. Em seguida, apliquei um modelo de clusterização utilizando o algoritmo K-means para agrupar os clientes em diferentes segmentos de acordo com suas características.
 Além disso, utilizei o algoritmo PCA para redução de dimensionalidade e otimização do modelo de clusterização, reduzindo a quantidade de variáveis utilizadas e melhorando a eficiência do modelo.
+
 Por fim, implementei um pipeline e column transformer para padronizar o processo de pré-processamento e modelagem, tornando o código mais eficiente e menos propenso a erros.
+
 O objetivo do projeto é ajudar empresas a segmentar seus clientes em diferentes grupos, de modo a direcionar campanhas de marketing e promoções de forma mais direcionada e efetiva, aumentando assim as chances de conversão de vendas.
-O código e o modelo podem ser utilizados e adaptados para diferentes tipos de dados e problemas de classificação, permitindo que outras pessoas possam utilizá-los para suas próprias aplicações.
+
+O código e o modelo podem ser utilizados e adaptados para diferentes tipos de dados e problemas de clusterização, permitindo que outros problemas possam ser resolvidos.
