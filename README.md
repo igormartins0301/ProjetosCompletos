@@ -9,8 +9,9 @@ Os resultados foram apresentados de forma clara e objetiva, permitindo uma fáci
 
 
 ### [Projeto 2. Modelo de classificação para previsão de Churn de clientes](https://github.com/igormartins0301/ProjetosCompletos/blob/main/churn_classification.ipynb)
-Neste projeto eu utilizei Pipelines para realizar o pré-processamento, treinamento e validação dos modelos. Essa técnica é muito impactante por permitir deixar o código organizado e enxuto, mas principalmente por evitar Data Leakage.
-O Data Set utilizado trabalha a questão de Churn de uma Telecom, onde o principal desafio é prever qual cliente irá dar Churn de acordo com suas características, para resolver o problema foram testados 5 modelos de classificação e o que apresentou os melhores resultados foi a regressão logística, que obteve resultados de aproximadamente 80% de acerto.
+Neste projeto, uma técnica muito poderosa foi utilizada para realizar o pré-processamento, treinamento e validação dos modelos: os Pipelines. Essa abordagem proporcionou uma organização mais estruturada do código e ajudou a evitar problemas de Data Leakage. O objetivo do projeto foi solucionar o desafio de Churn em uma empresa de Telecom, prevendo quais clientes têm maior probabilidade de cancelar seus serviços, com base em suas características.
+
+Foram testados cinco modelos de classificação, e o que apresentou os melhores resultados foi a Regressão Logística, com uma acurácia média de aproximadamente 80%. Os resultados foram apresentados de forma clara e objetiva, permitindo que a equipe de negócios entenda facilmente as principais informações e tome decisões mais estratégicas. Em suma, o projeto foi bem-sucedido em encontrar uma solução eficiente para um problema crítico de negócios.
 
 
 ### [Projeto 3. Modelo de Clusterização](https://github.com/igormartins0301/ProjetosCompletos/blob/main/marketing_campaign_DS.ipynb)
