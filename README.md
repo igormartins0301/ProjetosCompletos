@@ -25,3 +25,10 @@ Por fim, implementei um pipeline e column transformer para padronizar o processo
 O objetivo do projeto é ajudar empresas a segmentar seus clientes em diferentes grupos, de modo a direcionar campanhas de marketing e promoções de forma mais direcionada e efetiva, aumentando assim as chances de conversão de vendas.
 
 O código e o modelo podem ser utilizados e adaptados para diferentes tipos de dados e problemas de clusterização, permitindo que outros problemas possam ser resolvidos.
+
+
+### [Projeto 4. Sistema de Recomendação baseado em conteúdo](https://github.com/igormartins0301/ProjetosCompletos/blob/main/SR_NLP.ipynb)
+
+Este projeto é um sistema de recomendação de filmes que utiliza a técnica de recomendação baseada em conteúdo. O sistema analisa as características dos filmes que o usuário já assistiu e sugere outros filmes que compartilham características semelhantes.
+
+O usuário informa ao sistema um filme já assistiu e avaliou. O sistema utiliza essas avaliações e características dos filmes (como gênero, diretor, elenco, entre outros) para calcular a similaridade entre os filmes. Com base nessa similaridade, o sistema sugere outros filmes que têm características semelhantes aos filmes avaliados pelo usuário.
