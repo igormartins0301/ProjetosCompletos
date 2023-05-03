@@ -6,6 +6,12 @@ import pyti
 import plotly.express as px
 import plotly.graph_objects as go
 
+st.session_state['answer'] = ''
+
+ if  st.session_state['answer'] in realans:
+        answerStat = "correct"
+    elif st.session_state['answer'] not in realans:
+        answerStat = "incorrect"
 
 st.title('Análise de Rentabilidade em Ações')
 st.write('Nesta aplicação, você poderá analisar a rentabilidade de uma ação, utilizando diversas métricas.')
