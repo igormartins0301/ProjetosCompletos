@@ -32,3 +32,13 @@ O código e o modelo podem ser utilizados e adaptados para diferentes tipos de d
 Este projeto é um sistema de recomendação de filmes que utiliza a técnica de recomendação baseada em conteúdo. O sistema analisa as características dos filmes que o usuário já assistiu e sugere outros filmes que compartilham características semelhantes.
 
 O usuário informa ao sistema um filme já assistiu e avaliou. O sistema utiliza essas avaliações e características dos filmes (como gênero, diretor, elenco, entre outros) para calcular a similaridade entre os filmes. Com base nessa similaridade, o sistema sugere outros filmes que têm características semelhantes aos filmes avaliados pelo usuário.
+
+[Projeto 5. Segmentação de Clientes utilizando a metodologia RFV](https://github.com/igormartins0301/ProjetosCompletos/blob/main/rfv.ipynb)
+
+Você já se perguntou como seria fantástico ter uma visão clara dos seus clientes e poder direcionar suas estratégias de marketing de forma personalizada e altamente eficaz? Bem, a RFV (Recência, Frequência e Valor) é uma metodologia poderosa que nos permite entender o comportamento e o valor dos nossos clientes de maneira granular.
+
+1️⃣ Recência (Recency): A recência mede o tempo decorrido desde a última interação ou transação do cliente com a empresa. Essa informação nos permite identificar clientes ativos versus inativos, além de fornecer insights valiosos sobre a frequência das interações.
+2️⃣ Frequência (Frequency): A frequência representa a quantidade de interações ou transações que um cliente realiza em um determinado período de tempo. Isso nos ajuda a segmentar os clientes de acordo com seu nível de envolvimento com a marca.
+3️⃣ Valor (Value): O valor refere-se ao montante monetário gasto pelo cliente em suas transações conosco. Ele nos permite identificar clientes de alto valor e identificar oportunidades de upsell e cross-sell.
+
+Essa abordagem segmentada nos permite direcionar nossos esforços e recursos de forma mais eficiente, concentrando-nos em estratégias personalizadas para cada grupo. Isso resulta em maior engajamento, retenção e satisfação do cliente.
